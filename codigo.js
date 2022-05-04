@@ -3,4 +3,4 @@ let x = {
     apellido: "vicuña",
     dni: 4223431
 }
-console.log('json: ', x)
+console.log(`json: ${x}`)
