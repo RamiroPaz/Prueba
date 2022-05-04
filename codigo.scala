@@ -1,2 +1,5 @@
-Esto es código
-This is code
+object HolaMundo {
+  def main(args: Array[String]) {
+    println("¡Hola, mundo!")
+  }
+}
