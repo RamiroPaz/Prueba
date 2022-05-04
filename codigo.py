@@ -1,1 +1,1 @@
-lgante = "Yendo no llegando"
+lgante = "Yendo "
