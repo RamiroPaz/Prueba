@@ -1,0 +1,1 @@
+lgante = "Yendo no, llegando"
